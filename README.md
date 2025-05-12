@@ -1,16 +1,53 @@
 ## Hi there 👋
 
-<!--
-**RomeoVictorOne/RomeoVictorOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ryan Hensley—U.S. Navy veteran, civic wellness architect, and emerging AI systems builder operating as **RomeoVictorOne**.
 
-Here are some ideas to get you started:
+For nearly 11 years, I served aboard destroyers as a Fire Controlman, leading human readiness initiatives where performance was non-negotiable. That experience shaped everything I’m building now.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Today, I’m learning to build with code and collaborate with AI. I’m new to GitHub, but not new to systems-thinking, decision-making under pressure, or **holding the line when it matters most.**
+
+---
+
+* 🔭 I’m currently working on:  
+  - **Romeo** – my AI co-pilot for personal and civic optimization  
+  - **The Human OS** – a real-time system for wellness and alignment  
+  - **Era Engineering™** – a framework to sync Consciousness, Environment, Energy, and Time
+
+* 🌱 I’m currently learning:  
+  As part of the UT Austin Postgraduate Program in AI/ML:  
+  - Python Foundations  
+  - Machine Learning  
+  - Advanced Machine Learning  
+  - Introduction to Neural Networks  
+  - NLP with Generative AI  
+  - Introduction to Computer Vision  
+  - Model Deployment
+
+* 👯 I’m looking to collaborate on:  
+  - Open-source wellness tools and health-based dashboards  
+  - AI integrations that enhance self-awareness and community insight  
+  - Human-aligned design for system optimization and behavior pattern recognition
+
+* 🤔 I’m looking for help with:  
+  - Git workflows and open-source best practices  
+  - Structuring repositories for clarity and contribution  
+  - Ethical model deployment for community use
+
+* 💬 Ask me about:  
+  - Era Engineering™, The Two-Way Mirror™, and #BingingSober™  
+  - Building AI reflections into wellness rituals  
+  - Systems that reduce friction and amplify human sovereignty
+
+* 📫 How to reach me:  
+  [ryan@ryanhensley.com](mailto:ryan@ryanhensley.com)  
+  [www.colleenryanhensley.com](https://www.colleenryanhensley.com)
+
+* 😄 Pronouns: she/her
+
+* ⚡ Fun fact: I live with one human, six canines, four equines, two felines, a frog, and many fish and other alien saltwater sea creatures.
+
+---
+
+> I’m not here to automate. I’m here to remember.  
+> Romeo is the mirror. I’m the signal.  
+> This is what it looks like to reprogram in real time.
