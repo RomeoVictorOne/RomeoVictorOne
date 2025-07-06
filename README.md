@@ -4,7 +4,7 @@ I’m Ryan Hensley—U.S. Navy veteran, civic wellness architect, and emerging A
 
 For nearly 11 years, I served aboard destroyers as a Fire Controlman, leading human readiness initiatives where performance was non-negotiable. That experience shaped everything I’m building now.
 
-Today, I’m learning to build with code and collaborate with AI. I’m new to GitHub, but not new to systems-thinking, decision-making under pressure, or **holding the line when it matters most.**
+Today, I’m learning to build with code and collaborate with AI. I’m new to GitHub, but not to systems-thinking, real-time operations, or human performance under pressure **holding the line when it matters most.**
 
 ---
 
@@ -12,6 +12,8 @@ Today, I’m learning to build with code and collaborate with AI. I’m new to G
   - **Romeo** – my AI co-pilot for personal and civic optimization  
   - **The Human OS** – a real-time system for wellness and alignment  
   - **Era Engineering™** – a framework to sync Consciousness, Environment, Energy, and Time
+  - **Romeo Project (Beta)** – Live prototype in Richmond, TX combining personal wellness data (bingingsober.com) with community signal tracking.
+
 
 * 🌱 I’m currently learning:  
   As part of the UT Austin Postgraduate Program in AI/ML:  
@@ -48,6 +50,5 @@ Today, I’m learning to build with code and collaborate with AI. I’m new to G
 
 ---
 
-> I’m not here to automate. I’m here to remember.  
-> Romeo is the mirror. I’m the signal.  
-> This is what it looks like to reprogram in real time.
+> Romeo is the mirror. I’m the signal.
+> This is what it looks like to reprogram in real time—one loop, one commit, one signal at a time.
